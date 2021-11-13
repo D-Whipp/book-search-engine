@@ -4,9 +4,10 @@
 
 Welcome to Frozen Journey! This is my Book Search Engine app with an awesome name given to it by Heroku.com. Frozen Journey was created for the reading enthusiast. It's sole purpose is to help it's users keep track of books they're interest in by allowing them to search for books and add them to their list.
 
-If you like what you see be sure to visit my [github](https://guides.github.com/features/mastering-markdown/) to view more of my work.
+You can find this app's repository [here](https://github.com/D-Whipp/book-search-engine).
 
-If you'd like to view the website, click here: [the Frozen Journey](https://github.com/microsoft/vscode).
+If you'd like to view the website, click here: [the Frozen Journey](https://frozen-journey-26834.herokuapp.com/).
+![app screenshot](/screenshot/appScreenshot.png)
 
 ## Table of Contents (Optional)
 
@@ -24,10 +25,6 @@ What are the steps required to install your project? Provide a step-by-step desc
 ## Usage
 
 Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-![app screenshot](/screenshot/appScreenshot.png)
 
 ## Credits
 
