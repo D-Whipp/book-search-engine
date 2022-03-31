@@ -1,4 +1,6 @@
 # Frozen Journey | Book Search Engine
+### Full Stack App
+![app screenshot](/screenshot/appScreenshot.png)
 
 ## Description
 
@@ -9,8 +11,6 @@ You can find this app's repository [here](https://github.com/D-Whipp/book-search
 If you'd like to view the website, click here: [the Frozen Journey](https://frozen-journey-26834.herokuapp.com/).
 
 You can view the rest of my work [here](https://github.com/D-Whipp).
-
-![app screenshot](/screenshot/appScreenshot.png)
 
 ## Table of Contents (Optional)
 
